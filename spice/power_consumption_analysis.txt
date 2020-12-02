@@ -1,0 +1,18 @@
+Current consumption approximations :
+
+TPL5010 - 40nA (AO)
+MCP1640 - 19µA (AO)
+GazSensor - 6,0001mA
+    # peignes: 100nA (AO)
+    # heater: 3.8mA (AO)
+    # temp: 2.2mA
+RN2483 - 38.9mA emit / 1.2 idle / 0.0016mA sleep
+µC - 1.5mA active / 1µA power down
+AOP - 0.8mA active / 10µA shutdown
+LED - 5mA (short pulse, 50ms on)
+BUZZER - ? (shouldn't be triggered)
+
+if all always on : 6.0001 + 5 + 0.8 + 0.019 + 0.000040 + 1.5 = 13.3 mA ~ 15mA
+
+if full powerdown :
+3.8001 + 0.001 + 0.01 + 0.019 + 0.00004 + 0.0016 = 3.83174 mA ~ 4 mA
