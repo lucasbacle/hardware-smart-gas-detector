@@ -1,5 +1,24 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP FDN327N
+D FDN327N
+F http://www.onsemi.com/pub/Collateral/FDN327N-D.PDF
+$ENDCMP
+#
+$CMP LTC2050HVCS5TRPBF
+F http://cds.linear.com/docs/en/datasheet/2050fc.pdf
+$ENDCMP
+#
+$CMP RN2483A-I_RM103
+D RN2483A-I/RM103
+F http://ww1.microchip.com/downloads/en/DeviceDoc/RN2483-Low-Power-Long-Range-LoRa-Technology-Transceiver-Module-Data-Sheet-DS50002346D.pdf
+$ENDCMP
+#
+$CMP SGP40-D-R4
+D SGP40-D-R4
+F https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/9_Gas_Sensors/Datasheets/Sensirion_Gas_Sensors_SGP40_Datasheet.pdf
+$ENDCMP
+#
 $CMP SI2301CDS-T1-GE3
 D SI2301CDS-T1-GE3
 F http://www.vishay.com/docs/68741/si2301cd.pdf

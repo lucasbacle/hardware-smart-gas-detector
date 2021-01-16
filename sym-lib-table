@@ -1,7 +1,4 @@
 (sym_lib_table
-  (lib (name AIME_GAZ_SENSOR)(type Legacy)(uri ${KIPRJMOD}/project_libraries/project_symbols/aime_gaz_sensor.lib)(options "")(descr ""))
-  (lib (name LTC2050)(type Legacy)(uri ${KIPRJMOD}/project_libraries/project_symbols/ltc2050.lib)(options "")(descr ""))
-  (lib (name RN2483)(type Legacy)(uri ${KIPRJMOD}/project_libraries/project_symbols/rn2483.lib)(options "")(descr ""))
   (lib (name project_symbols)(type Legacy)(uri ${KIPRJMOD}/project_libraries/project_symbols/project_symbols.lib)(options "")(descr ""))
-  (lib (name eec)(type Legacy)(uri "${KIPRJMOD}/libraries/IC_Linear Technology_LTC2050HVCS5#TRPBF/eec.lib")(options "")(descr ""))
+  (lib (name hardware-smart-gaz-detector-extension-board-rescue)(type Legacy)(uri ${KIPRJMOD}/hardware-smart-gaz-detector-extension-board-rescue.lib)(options "")(descr ""))
 )
