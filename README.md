@@ -17,5 +17,9 @@ Being powered by a relatively small 1-cell LiPo battery, we made the choice not 
 ![Extension board schematic](/docs/images/extension_board_schematic.png)
 
 ### PCB
-![Extension board pcb front](/docs/images/extension_board_pcb_front.png)  |  ![Extension board pcb bottom](/docs/images/extension_board_pcb_bottom.png)
+![Extension board pcb front](/docs/images/extension_board_3d.png) | 
+
+| Front side  | Bottom side |
+| ------------- | ------------- |
+![Extension board pcb front](/docs/images/extension_board_pcb_front.png) | ![Extension board pcb bottom](/docs/images/extension_board_pcb_bottom.png)
 
