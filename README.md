@@ -1,4 +1,4 @@
-# MOSH Project: Smart gaz detector
+# MOSH Project: Smart gas detector
 KiCad schematic and pcb layout for a smart gas detector using a cutting edge nanoparticles-based sensor and LoRaWAN connectivity. Due to time constraints, we only proceeded with the routing of an expansion board which connect to the main detector for it to use our sensor instead of the commercial ones.
 
 ## Smart gaz detector
